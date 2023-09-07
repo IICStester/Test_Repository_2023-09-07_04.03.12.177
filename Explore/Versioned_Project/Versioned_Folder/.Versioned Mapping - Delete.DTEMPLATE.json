@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "9mB2URFoIjQg9BPMJQvXC5",
-    "name" : "Versioned Mapping - Edit",
+    "id" : "3615sQreBdcdTOpcUI5Bsp",
+    "name" : "Versioned Mapping - Delete",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -9,14 +9,14 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010000170000000000QM"
+        "repoHandle" : "010000170000000000R0"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "Mapping for testing Edit changes. ",
+        "description" : "",
         "contentType" : "JSON",
         "documentState" : "INVALID"
       }
